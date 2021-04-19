@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daily Needs</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add item</string>
+    <string name="enter_item">Enter Item Details</string>
+    <string name="hint_item">Enter Item</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_size">Size</string>
+    <string name="save_button">Save</string>
+    <string name="sure_text">Delete this item?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="update_text">Update</string>
+    <string name="details_of_item">Details of Item</string>
+</resources>
